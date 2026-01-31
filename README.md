@@ -2,8 +2,6 @@
 
 she/her, name pronounced like "Roahs" (Dutch), alternatively "Ruezz" (Easier) or "Rose" (English Translation) are also fine
 
----
-
 ### 💁‍♀️ About Me
 
 #### 👩‍💻 Professional
