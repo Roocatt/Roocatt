@@ -1,31 +1,21 @@
-<h1 style="text-align: center">🙋‍♀️ Hi, I'm Roos! 🌹</h1>
-<p style="text-align: center; color: grey">she/her, name pronounced like
-"Roahs" (Dutch), alternatively "Ruezz" (Easier) or "Rose" (English
-Translation) are also fine</p>
+##🙋‍♀️ Hi, I'm Roos! 🌹
+
+she/her, name pronounced like "Roahs" (Dutch), alternatively "Ruezz" (Easier) or "Rose" (English Translation) are also fine
 
 ---
 
-## 💁‍♀️ About Me
-<div style="overflow: auto;">
-<div style="width: 50%; float: left; padding-right: 10px;">
+### 💁‍♀️ About Me
 
-### 👩‍💻 Professional
-- Software Development
+#### 👩‍💻 Professional
+- Software Development 💻
   - Full-stack
   - Backend
   - Embedded
-- Infrastructure
+- Infrastructure ☁️
   - Infrastructure Engineering
   - Systems Administration
 
-</div>
-
-<div style="width: 50%; float: right; padding-left: 10px;">
-
-### 🤷‍♀️ Personal
-- Motorsport
-- Music
-- Outdoors
-
-</div>
-</div>
+#### 🤷‍♀️ Personal
+- Cars and Motorsport 🏎️
+- Music 🎸
+- Outdoors 🏔️
