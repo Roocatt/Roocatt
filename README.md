@@ -1,4 +1,4 @@
-##🙋‍♀️ Hi, I'm Roos! 🌹
+## 🙋‍♀️ Hi, I'm Roos! 🌹
 
 she/her, name pronounced like "Roahs" (Dutch), alternatively "Ruezz" (Easier) or "Rose" (English Translation) are also fine
 
