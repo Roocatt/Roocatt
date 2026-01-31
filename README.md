@@ -1,10 +1,11 @@
 ###
 
-<h1 align="center">🙋‍♀️ Hi, I'm Roos! 🌹</h2>
+<h1 align="center">🙋‍♀️ Hi, I'm Roos! 🌹</h1>
 
 
 <p align="center">
-She/Her - Pronounced "Roahs" (Dutch) or "Rose" (English)<br/>
+She/Her - Pronounced "Roahs" (Dutch) or "Rose" (English)
+<br/>
 Or just "Ruess" or "Ruezz" - I’ll still answer 🙂
 </p>
 
