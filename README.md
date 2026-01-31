@@ -2,8 +2,11 @@
 
 <h1 align="center">🙋‍♀️ Hi, I'm Roos! 🌹</h2>
 
-<p align="center">She/Her. My name is pronounced like "Roahs" (Dutch), or "Rose" (English Translation), but I don't mind if you just pronounce it "Reuss".</p>
-<br />
+
+<p align="center">
+She/Her - Pronounced "Roahs" (Dutch) or "Rose" (English)<br/>
+Or just "Ruess" or "Ruezz" - I’ll still answer 🙂
+</p>
 
 ###
 
@@ -11,26 +14,26 @@
 
 ###
 
-- Software Development 💻
+- **Software Development** 💻
   - Full-stack
   - Backend
   - Embedded
-- Infrastructure ☁️
+- **Infrastructure** ☁️
   - Infrastructure Engineering
   - Systems Administration
   - Cloud
 
 ###
 
-<h2 align="center">🤷‍♀️ Personal</h2>
+<h2 align="center">🤷‍♀️ Outside of Work</h2>
 
 ###
 
-- Cars and Motorsport 🏎️
+- **Cars and Motorsport** 🏎️
   - Rally racing
   - Restoring vintage Porsches
-- Music 🎸
+- **Music** 🎸
   - I play Guitar, Bass, and Flute
   - Metal, punk, jazz, and girly pop
-- Outdoors 🏔️
+- **Outdoors** 🏔️
   - Hiking and camping
